@@ -24,4 +24,11 @@ style="display: inline_block"><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/brenno-modesto/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/brennoslow/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brennodeveloper/brennodeveloper/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brennodeveloper/brennodeveloper/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brennodeveloper/brennodeveloper/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer"/>
